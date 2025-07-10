@@ -8,6 +8,7 @@ Objective
 
 Data Description
 
+[Data Collection and Preparation](#Data-Collection-and-Preparation)
 
 
 ## Introduction 
@@ -32,7 +33,8 @@ This dataset provides a detailed record of sales transactions for frozen dessert
 •	Units, indicating the number of items sold.
 the Order acts as a unique identifier for each transaction, ensuring that records can be traced and validated. 
 Overall, this structured dataset supports both high-level sales reporting and detailed drill-down analysis, making it valuable for strategic decision-making in sales and marketing efforts.
-Data Collection and Preparation 
+
+## Data Collection and Preparation 
 Raw Data Sheet: Include the raw data as a separate sheet. Label it clearly as "Raw Data 
 Tools used: Excel
 
