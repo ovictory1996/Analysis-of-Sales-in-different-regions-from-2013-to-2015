@@ -1,6 +1,16 @@
 # Analysis-of-Sales-in-different-regions-from-2013-to-2015
 
-## Introduction/Project Overview: 
+## TABLE OF CONTENT
+
+[Introduction](#Introduction)
+
+Objective
+
+Data Description
+
+
+
+## Introduction 
 
 ### Objective: 
 The dataset captures detailed sales records of Cold treat products like ice cream, frozen yogurt, popsicles, tasty treats across various four regions (East, West North, South) and time periods between 2013 and 2015.
