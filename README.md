@@ -77,7 +77,7 @@ VI.	Total revenue by month
 ## Visualizations:
 A comprehensive dashboard was developed by gathering the pivot charts to allow for interactive insight to Sales company
 Slicer Application: Slicers were added via insert > Slicers allowing dynamic filtering by fields such as Year, Month, Salesperson, product type and Region. 
-![PivotTable](SALES_PivotTable.PNG)
+![SALES_DASHBOAD](SALES_DASHBOAD.PNG)
 
 
 
