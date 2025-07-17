@@ -26,17 +26,17 @@ For every entry, information is provided on the month and year, salesperson, pro
 This data provides an opportunity to analyze sales trends, understand customer preferences, evaluate sales performance across regions and personnel, and uncover seasonal patterns in consumer demand. By examining these insights, businesses can make informed decisions on marketing strategies, inventory management, and resource allocation to improve overall performance and profitability in the frozen dessert market.
 ## Data Description: 
 The dataset comprises detailed transaction records from three coffee shops over a specified period. The data includes the following columns: 
-•	Year: The calendar year in which the transaction occurred (e.g., 2013, 2014, 2015).
-•	Month: The Month when the transaction took place. 
-•	Type: The category of frozen dessert sold (e.g., Ice Cream, Popsicle, Frozen Yogurt) 
-•	Salesperson: The quantity of items purchased in the transaction. 
-•	Region: The geographical area where the sale was made (e.g., East, West, Central).
-•	Sales: The total sales amount in currency generated from the transaction.
-•	Units: The quantity of dessert items sold. 
-•	Order: A unique identifier for each transaction/order.
+ -  **Year**: The calendar year in which the transaction occurred (e.g., 2013, 2014, 2015).
+ - **Month**: The Month when the transaction took place. 
+ - **Type**: The category of frozen dessert sold (e.g., Ice Cream, Popsicle, Frozen Yogurt) 
+ - **Salesperson**: The quantity of items purchased in the transaction. 
+ - **Region**: The geographical area where the sale was made (e.g., East, West, Central).
+ - **Sales**: The total sales amount in currency generated from the transaction.
+ - **Units**: The quantity of dessert items sold. 
+ - **Order**: A unique identifier for each transaction/order.
 This dataset provides a detailed record of sales transactions for frozen desserts across various regions. The data spans multiple years and is organized into key columns that help track and analyze performance over time. The Region column indicates the geographical area of the transaction, which is useful for identifying market strengths and weaknesses across territories. Two quantitative measures are included:
-•	Sales, representing the monetary value of each transaction, and
-•	Units, indicating the number of items sold.
+ - Sales, representing the monetary value of each transaction, and
+ - Units, indicating the number of items sold.
 the Order acts as a unique identifier for each transaction, ensuring that records can be traced and validated. 
 Overall, this structured dataset supports both high-level sales reporting and detailed drill-down analysis, making it valuable for strategic decision-making in sales and marketing efforts.
 
