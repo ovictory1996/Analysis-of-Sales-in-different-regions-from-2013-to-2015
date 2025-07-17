@@ -2,23 +2,27 @@
 
 ## TABLE OF CONTENT
 
-[Introduction](#Introduction)
+- [Introduction](#Introduction)
 
-Objective
-
-Data Description
-
-[Data Collection and Preparation](#Data-Collection-and-Preparation)
+- [Data Description](#Data-Description)
 
 
-## Introduction 
+- [Data Analysis](#Data-Analysis)
 
-### Objective: 
+- [Skills demonstrated](#Skills-demonstrated)
+
+- [Visualizations](#Visualizations)
+
+- [Insight from analysis](#Insight-from-analysis)
+
+- [Summary of Analysis](#Summary-of-Analysis)
+
+## Introduction
 The dataset captures detailed sales records of Cold treat products like ice cream, frozen yogurt, popsicles, tasty treats across various four regions (East, West North, South) and time periods between 2013 and 2015.
 For every entry, information is provided on the month and year, salesperson, product type, region, number of units sold, and total sales amount.
 
 This data provides an opportunity to analyze sales trends, understand customer preferences, evaluate sales performance across regions and personnel, and uncover seasonal patterns in consumer demand. By examining these insights, businesses can make informed decisions on marketing strategies, inventory management, and resource allocation to improve overall performance and profitability in the frozen dessert market.
-Data Description: 
+## Data Description: 
 The dataset comprises detailed transaction records from three coffee shops over a specified period. The data includes the following columns: 
 •	Year: The calendar year in which the transaction occurred (e.g., 2013, 2014, 2015).
 •	Month: The Month when the transaction took place. 
@@ -38,7 +42,7 @@ Overall, this structured dataset supports both high-level sales reporting and de
 Raw Data Sheet: Include the raw data as a separate sheet. Label it clearly as "Raw Data 
 Tools used: Excel
 
-Skills demonstrated
+## Skills demonstrated
 1. Data Cleaning, Preparation  and Transformation:
    (a)  It was formatted as table-
 •	Click on home tab
@@ -70,7 +74,7 @@ VI.	Total revenue by month
 
 
 
-Visualizations:
+## Visualizations:
 A comprehensive dashboard was developed by gathering the pivot charts to allow for interactive insight to Sales company
 Slicer Application: Slicers were added via insert > Slicers allowing dynamic filtering by fields such as Year, Month, Salesperson, product type and Region. 
 
@@ -78,13 +82,14 @@ Slicer Application: Slicers were added via insert > Slicers allowing dynamic fil
 
 
 
-Insight from analysis:
+## Insight from analysis:
 1. Sales Performance by Product Type: Popsicles had the lowest sales volume, possibly indicating less demand or fewer promotions
 2. Regional Performance: South had some strong months, particularly during warmer seasons (e.g., July–August), hinting at climate-based preferences.
 3. Salesperson Analysis: Bishop led in most Ice Cream and Tasty Treat orders.
 4. Monthly Trends: December showed a spike for Tasty Treats, likely due to the festive season.
 5. Yearly Growth: From 2013 to 2015, there was a slight increase in total sales and units sold, indicating growth.
-Summary of Analysis
+   
+## Summary of Analysis
 This dataset covers sales transactions from 2013 to 2015, detailing product types, regions, salespersons, units sold, and sales revenue. The goal was to uncover performance trends, product preferences, seasonal patterns, and regional variations.
 Conclusion
 The data reveals that product demand is seasonal and region-dependent, with Ice Cream driving the highest revenue. Targeted strategies focusing on top-performing regions and salespeople, coupled with seasonal promotions, can boost overall performance. To sustain growth, it's important to analyze low-performing months and products for improvement opportunities.
