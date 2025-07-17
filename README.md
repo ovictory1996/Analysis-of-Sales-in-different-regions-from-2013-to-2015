@@ -41,9 +41,11 @@ Overall, this structured dataset supports both high-level sales reporting and de
 ## Data Collection and Preparation
 ## Data Source
 The data used in this project comes from a company-provided CSV file named SALES DATASET.csv. It contains sales records with fields such as year, month, product type, region, salesperson, sales amount, units sold, and order number.
-[Download SALES DATASET.csv]()
+[Download SALES DATASET.csv](SALES_RAW_DATA.xlsx)
 
 ### Tools used: Excel
+    - Pivot Table
+    - pivot Chart
 
 ## Skills demonstrated
 1. Data Cleaning, Preparation  and Transformation:
