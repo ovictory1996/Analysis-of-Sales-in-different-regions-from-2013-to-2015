@@ -38,9 +38,12 @@ This dataset provides a detailed record of sales transactions for frozen dessert
 the Order acts as a unique identifier for each transaction, ensuring that records can be traced and validated. 
 Overall, this structured dataset supports both high-level sales reporting and detailed drill-down analysis, making it valuable for strategic decision-making in sales and marketing efforts.
 
-## Data Collection and Preparation 
-Raw Data Sheet: Include the raw data as a separate sheet. Label it clearly as "Raw Data 
-Tools used: Excel
+## Data Collection and Preparation
+## Data Source
+The data used in this project comes from a company-provided CSV file named SALES DATASET.csv. It contains sales records with fields such as year, month, product type, region, salesperson, sales amount, units sold, and order number.
+[Download SALES DATASET.csv]()
+
+### Tools used: Excel
 
 ## Skills demonstrated
 1. Data Cleaning, Preparation  and Transformation:
