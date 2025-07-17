@@ -17,6 +17,8 @@
 
 - [Summary of Analysis](#Summary-of-Analysis)
 
+- [Conclusion](#Conclusion)
+
 ## Introduction
 The dataset captures detailed sales records of Cold treat products like ice cream, frozen yogurt, popsicles, tasty treats across various four regions (East, West North, South) and time periods between 2013 and 2015.
 For every entry, information is provided on the month and year, salesperson, product type, region, number of units sold, and total sales amount.
@@ -97,5 +99,6 @@ Slicer Application: Slicers were added via insert > Slicers allowing dynamic fil
    
 ## Summary of Analysis
 This dataset covers sales transactions from 2013 to 2015, detailing product types, regions, salespersons, units sold, and sales revenue. The goal was to uncover performance trends, product preferences, seasonal patterns, and regional variations.
-Conclusion
+
+## Conclusion
 The data reveals that product demand is seasonal and region-dependent, with Ice Cream driving the highest revenue. Targeted strategies focusing on top-performing regions and salespeople, coupled with seasonal promotions, can boost overall performance. To sustain growth, it's important to analyze low-performing months and products for improvement opportunities.
