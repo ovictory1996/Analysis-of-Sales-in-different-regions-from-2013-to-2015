@@ -6,6 +6,7 @@
 
 - [Data Description](#Data-Description)
 
+- [Data Collection and Preparation](#Data-Collection-and-Preparation)
 
 - [Data Analysis](#Data-Analysis)
 
