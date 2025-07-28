@@ -2,7 +2,7 @@
 
 ## TABLE OF CONTENT
 
-- [NEWSY](NEWSY-MYLOVE)
+- [NEWSY](#NEWSY-MYLOVE)
 
 - [Introduction](#Introduction)
 
