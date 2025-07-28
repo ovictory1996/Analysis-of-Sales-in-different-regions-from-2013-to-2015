@@ -2,8 +2,6 @@
 
 ## TABLE OF CONTENT
 
-- [NEWSY](#NEWSY-MYLOVE)
-
 - [Introduction](#Introduction)
 
 - [Data Description](#Data-Description)
@@ -89,7 +87,6 @@ A comprehensive dashboard was developed by gathering the pivot charts to allow f
 Slicer Application: Slicers were added via insert > Slicers allowing dynamic filtering by fields such as Year, Month, Salesperson, product type and Region. 
 ![SALES_DASHBOAD](SALES_DASHBOAD.PNG)
 
-## NEWSY MYLOVE
 
 
 
