@@ -72,12 +72,12 @@ The data used in this project comes from a company-provided CSV file named SALES
 
 Data Analysis:
 •	The following pivot tables and chat were created:
-I.	Revenue by years, months and regions
-II.	Number of sales sold by region
-III.	Total revenue by salesperson
-IV.	Total revenue by year
-V.	Total revenue by product type
-VI.	Total revenue by month
+-	Revenue by years, months and regions
+-	Number of sales sold by region
+- Total revenue by salesperson
+-	Total revenue by year
+-	Total revenue by product type
+-	Total revenue by month
 ![PivotTable](SALES_PivotTable.PNG)
 
 
