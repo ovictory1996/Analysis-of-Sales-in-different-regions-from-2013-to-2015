@@ -78,6 +78,7 @@ Data Analysis:
 -	Total revenue by year
 -	Total revenue by product type
 -	Total revenue by month
+
 ![PivotTable](SALES_PivotTable.PNG)
 
 
